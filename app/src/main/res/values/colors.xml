@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5FB1F6</color>
+    <color name="colorPrimaryDark">#5FB1F6</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#5FB1F6</color>
+    <color name="deeppurple">#5FB1F6</color>
+    <color name="yello">#5FB1F6</color>
+    <color name="green">#5FB1F6</color>
+    <color name="colorAccent">#5fb1f6</color>
+    <color name="darkblue">#5FB1F6</color>
+    <color name="testcolorblue">#5FB1F6</color>
+    <color name="pink">#5FB1F6</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
